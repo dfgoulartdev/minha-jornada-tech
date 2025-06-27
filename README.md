@@ -1,5 +1,6 @@
 # minha-jornada-tech
 OLA! Meu nome é Daniel e este repositorio vai documentar minha jornada de estudos para me tornar um **Desenvolvedor Front-End**.
+
 Estou aprendendo as seguintes tecnologias:
 - HTML
 - CSS
